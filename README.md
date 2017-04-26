@@ -7,7 +7,7 @@ This is a parent POM for use in SOAP Based Mule extensions.
 Just create a new maven project and set this pom.xml as parent of your project parent pom
 
     <parent>
-        <groupId>org.mule.extensions</groupId>
+        <groupId>com.mulesoft.mule.extensions</groupId>
 	    <artifactId>mule-extensions-soap-parent</artifactId>
         <version>4.0.0-SNAPSHOT</version>
     </parent>
