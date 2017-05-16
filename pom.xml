@@ -34,11 +34,13 @@
             <groupId>org.mule.runtime</groupId>
             <artifactId>mule-module-extensions-soap-support</artifactId>
             <version>${mule.extensions.soap.support}</version>
+            <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>org.mule.runtime</groupId>
             <artifactId>mule-extensions-soap-api</artifactId>
             <version>${mule.extensions.soap.api}</version>
+            <scope>provided</scope>
         </dependency>
     </dependencies>
 </project>
