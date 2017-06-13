@@ -38,5 +38,5 @@ propertiesDepsMuleVersion=("mule.extensions.soap.support")
 
 updatePropertiesVersion "$VERSION_TO_MULE" pom.xml propertiesDepsMuleVersion[@]
 
-updateParentVersion "$VERSION_TO_MULE" pom.xml
+updateParentVersion "$VERSION_TO" pom.xml
 
