@@ -13,7 +13,7 @@
     
     <groupId>com.mulesoft.mule.extensions</groupId>
     <artifactId>mule-modules-soap-parent</artifactId>
-    <version>1.0.0-BETA.5</version>
+    <version>1.0.0-FD.2</version>
     <packaging>pom</packaging>
     <name>Mule Soap Modules Parent POM</name>
     <description>Mule Modules that augment the core Mule functionality through the Mule SOAP Extension API</description>
