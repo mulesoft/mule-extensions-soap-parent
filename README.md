@@ -15,8 +15,3 @@ Just create a new maven project and set this pom.xml as parent of your project p
 Now you have everything you need to start the development of the SOAP Based extension.
 
 Begin by creating a new SoapServiceProvider to define the Web Services you want to connect to.
-
-## About Soap Connect
-    
-[Here](https://docs.google.com/a/mulesoft.com/document/d/1NlNPWXxLL1enUg0Ly1EqzxmNtc03c5JOoS2NPQALXtM/edit?usp=sharing) you can find the full spec.
-
