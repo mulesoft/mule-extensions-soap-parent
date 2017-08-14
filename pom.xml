@@ -8,7 +8,7 @@
     <parent>
         <groupId>org.mule.extensions</groupId>
         <artifactId>mule-modules-parent</artifactId>
-        <version>1.0.0-FD.2</version>
+        <version>1.0.0-FD.3</version>
     </parent>
     
     <groupId>com.mulesoft.mule.extensions</groupId>
@@ -25,8 +25,8 @@
     </scm>
 
     <properties>
-        <mule.extensions.soap.api>1.0.0-FD.2</mule.extensions.soap.api>
-        <mule.extensions.soap.support>4.0.0-FD.2</mule.extensions.soap.support>
+        <mule.extensions.soap.api>1.0.0-FD.3</mule.extensions.soap.api>
+        <mule.extensions.soap.support>4.0.0-FD.3</mule.extensions.soap.support>
         <extensionsAnnotationProcessor>org.mule.runtime.module.extension.internal.resources.SoapExtensionResourcesGeneratorAnnotationProcessor</extensionsAnnotationProcessor>
     </properties>
 
