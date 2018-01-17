@@ -25,7 +25,7 @@
     </scm>
 
     <properties>
-        <mule.extensions.soap.api>1.1.0-SNAPSHOT</mule.extensions.soap.api>
+        <mule.extensions.soap.api>1.2.0-SNAPSHOT</mule.extensions.soap.api>
         <mule.extensions.soap.support>4.1.0-SNAPSHOT</mule.extensions.soap.support>
         <extensionsAnnotationProcessor>org.mule.runtime.module.extension.internal.resources.SoapExtensionResourcesGeneratorAnnotationProcessor</extensionsAnnotationProcessor>
     </properties>
