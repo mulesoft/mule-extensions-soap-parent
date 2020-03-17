@@ -8,12 +8,12 @@
     <parent>
         <groupId>org.mule.extensions</groupId>
         <artifactId>mule-modules-parent</artifactId>
-        <version>1.3.0-SNAPSHOT</version>
+        <version>1.3.1-SNAPSHOT</version>
     </parent>
 
     <groupId>com.mulesoft.mule.extensions</groupId>
     <artifactId>mule-modules-soap-parent</artifactId>
-    <version>1.3.0-SNAPSHOT</version>
+    <version>1.3.1-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Mule Soap Modules Parent POM</name>
     <description>Mule Modules that augment the core Mule functionality through the Mule SOAP Extension API</description>
@@ -26,8 +26,8 @@
 
     <properties>
         <apt.phase>compile</apt.phase>
-        <mule.extensions.soap.api>1.3.0-SNAPSHOT</mule.extensions.soap.api>
-        <mule.extensions.soap.support>4.3.0-SNAPSHOT</mule.extensions.soap.support>
+        <mule.extensions.soap.api>1.3.1-SNAPSHOT</mule.extensions.soap.api>
+        <mule.extensions.soap.support>4.3.1-SNAPSHOT</mule.extensions.soap.support>
         <extensionsAnnotationProcessor>org.mule.runtime.module.extension.internal.resources.SoapExtensionResourcesGeneratorAnnotationProcessor</extensionsAnnotationProcessor>
         <extensionsAnnotationProcessor>
             org.mule.runtime.module.extension.internal.resources.SoapExtensionResourcesGeneratorAnnotationProcessor
