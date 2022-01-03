@@ -26,7 +26,7 @@
 
     <properties>
         <apt.phase>compile</apt.phase>
-        <mule.extensions.soap.api>1.5.0-SNAPSHOT</mule.extensions.soap.api>
+        <mule.extensions.soap.api>1.5.0-20220103</mule.extensions.soap.api>
         <mule.extensions.soap.support>4.5.0-SNAPSHOT</mule.extensions.soap.support>
         <extensionsAnnotationProcessor>org.mule.runtime.module.extension.internal.resources.SoapExtensionResourcesGeneratorAnnotationProcessor</extensionsAnnotationProcessor>
         <extensionsAnnotationProcessor>
