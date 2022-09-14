@@ -1,4 +1,4 @@
 upstreamProjects:
-  Mule-runtime/mule-extensions-parent/master
+  Mule-runtime/mule-extensions-parent/master-INVERNALIA-2022-DRY-RUN
 projectType: runtime
 enableMavenTestStage: false
