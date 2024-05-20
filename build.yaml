@@ -1,4 +1,4 @@
 upstreamProjects:
-  Mule-runtime/mule-extensions-parent/support/1.6.x
+  Mule-runtime/mule-extensions-parent/1.6.4
 projectType: runtime
 enableMavenTestStage: false
