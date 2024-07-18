@@ -1,4 +1,4 @@
 upstreamProjects:
-  Mule-runtime/mule-extensions-parent/support/1.7.x
+  Mule-runtime/mule-extensions-parent/1.7.2-DRY-RUN
 projectType: runtime
 enableMavenTestStage: false
