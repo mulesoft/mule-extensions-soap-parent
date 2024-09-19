@@ -1,4 +1,4 @@
 upstreamProjects:
-  Mule-runtime/mule-extensions-parent/master
+  Mule-runtime/mule-extensions-parent/master-OCTOBER-2024
 projectType: runtime
 enableMavenTestStage: false
