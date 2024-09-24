@@ -26,7 +26,7 @@
 
     <properties>
         <apt.phase>compile</apt.phase>
-        <mule.extensions.soap.api>1.8.0-rc3</mule.extensions.soap.api>
+        <mule.extensions.soap.api>1.8.0</mule.extensions.soap.api>
         <mule.extensions.soap.support>4.8.0-rc3</mule.extensions.soap.support>
         <!-- Prevent doing the annotation processing during compilation, because compiled classes are not available yet -->
         <extensionsAnnotationProcessorCompileProc>none</extensionsAnnotationProcessorCompileProc>
