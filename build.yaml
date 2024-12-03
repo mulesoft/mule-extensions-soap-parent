@@ -1,4 +1,4 @@
 upstreamProjects:
-  Mule-runtime/mule-extensions-parent/master
+  Mule-runtime/mule-extensions-parent/master-TESTCYCLE-2020-DRY-RUN
 projectType: runtime
 enableMavenTestStage: false
