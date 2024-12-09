@@ -27,7 +27,7 @@
     <properties>
         <apt.phase>compile</apt.phase>
         <mule.extensions.soap.api>1.8.2-rc1</mule.extensions.soap.api>
-        <mule.extensions.soap.support>4.8.2-SNAPSHOT</mule.extensions.soap.support>
+        <mule.extensions.soap.support>4.8.2-rc1</mule.extensions.soap.support>
         <!-- Prevent doing the annotation processing during compilation, because compiled classes are not available yet -->
         <extensionsAnnotationProcessorCompileProc>none</extensionsAnnotationProcessorCompileProc>
         <extensionsAnnotationProcessor>org.mule.runtime.module.extension.internal.resources.SoapExtensionResourcesGeneratorAnnotationProcessor</extensionsAnnotationProcessor>
